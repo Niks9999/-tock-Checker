@@ -24,8 +24,9 @@ Under Virus & threat protection settings, click on "Manage settings" in the Viru
 Scroll down to the Exclusions section and click on "Add or remove exclusions", then select the folder containing the program.
 
 4.
-Run pyinstaller in the command prompt (pyinstaller -F -w -i icon.ico main.py) -> for a program with an icon.
+Run pyinstaller in the command prompt in correct depository: (pyinstaller -F -w -i icon.ico main.py) -> for a program with an icon.
 The icon file needs to be in ICO format and in the same folder as the .py file.
+
 
 
 Program's Purpose:
